@@ -1,0 +1,6 @@
+{
+  "name": "Articulate - English Speaking Coach & Conversation Lab",
+  "description": "Interactive voice and conversation coach providing real-time dialogue practice, grammar corrections, vocabulary enhancements, pronunciation guides, and CEFR fluency diagnostics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
